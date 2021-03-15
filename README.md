@@ -5,4 +5,8 @@ DESCARGAR:
 
 `git clone https://github.com/Z3R07-RED/tarcz.git`
 
-luego descomprima el archivo `.zip` dependiendo de la distribución que use, y mueva el archivo `tarcz` a su directorio `bin` y luego disfrute del comando.
+* luego descomprima el archivo `.zip` dependiendo de la distribución que use, luego de permiso de ejecución:
+
+`chmod +x tarcz`
+
+* luego mueva el archivo `tarcz` a su directorio `bin` y luego disfrute del comando.
