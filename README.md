@@ -3,10 +3,17 @@ tarcz es un comando para crear copias de seguridad, usa el comando `tar` y `prog
 DESCARGAR:
 ======
 
-`git clone https://github.com/Z3R07-RED/tarcz.git`
+```
+git clone https://github.com/Z3R07-RED/tarcz.git
+```
 
-* luego descomprima el archivo `.zip` dependiendo de la distribución que use, luego de permiso de ejecución:
+* renombra el archivo que corresponda a tu sistema operativo por `tarcz`
 
-`chmod +x tarcz`
 
-* luego mueva el archivo `tarcz` a su directorio `bin` y luego disfrute del comando.
+* luego mueva el archivo `tarcz` a su directorio `bin` y de permisos de ejecución:
+
+```
+chmod +x tarcz
+```
+
+* luego disfrute del comando.
